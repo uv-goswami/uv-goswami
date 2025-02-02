@@ -1,39 +1,52 @@
-# Welcome to My GitHub Portfolio
+# 🌟 Welcome to My GitHub Portfolio 🌟
 
-Hello there! I'm Yuvraj Singh, a passionate developer with a focus on decentralized applications, machine learning, and blockchain technology. Here's a glimpse of my key projects:
+Hello there! I'm **Yuvraj Singh**, a passionate developer with a focus on decentralized applications, machine learning, and blockchain technology. Here's a glimpse of my key projects:
 
-
-## Projects
+## 🚀 Projects
 
 ### [Domain_dAPP](https://github.com/uv-goswami/Domain_dAPP)
 A decentralized application (dApp) focusing on selling and purchasing Domains. Built using Ethereum, Solidity, Web3.js, and React.
 
+![Domain dApp Screenshot](link-to-your-screenshot)
+
+**Key Features:**
+- Secure domain registration
+- Easy domain transfer
+- User-friendly interface
+
 ### [Nudity_Detection_and_Prevention_using_Faster_R-CNN](https://github.com/uv-goswami/Nudity_Detection_and_Prevention_using_Faster_R-CNN)
 A project focused on detecting and preventing nudity in images using Faster R-CNN. Developed with Python, TensorFlow, Keras, and OpenCV.
+
+![Nudity Detection Screenshot](link-to-your-screenshot)
+
+**Key Features:**
+- High accuracy detection
+- Real-time processing
+- Robust model architecture
 
 ### [Cpp-Project-Blockchain](https://github.com/uv-goswami/Cpp-Project-Blockchain)
 A blockchain project implemented in C++ with OpenSSL and JSON for Modern C++.
 
+![Blockchain Project Screenshot](link-to-your-screenshot)
+
+**Key Features:**
+- Secure transactions
+- Decentralized ledger
+- Efficient consensus algorithm
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uv-goswami)](https://git.io/streak-stats)
 
-## About Me
+## 👨‍💻 About Me
 I have a keen interest in emerging technologies and love working on innovative projects that solve real-world problems. Feel free to explore my repositories and connect with me.
 
-## Contact
+## 📬 Contact
 - **Email:** yuvrajgoswamigir@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **Twitter:** [Your Twitter](https://twitter.com/your-profile)
+
 ---
 
-Looking forward to collaborating and making awesome things together!
-
-
-
-
-
-
-
-
-
-
+Looking forward to collaborating and making awesome things together! 🚀✨
 
 <!--
 **uv-goswami/uv-goswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
