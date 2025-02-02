@@ -35,9 +35,6 @@ I have a keen interest in emerging technologies and love working on innovative p
 
 ## 📬 Contact
 - **Email:** yuvrajgoswamigir@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [Your Twitter](https://twitter.com/your-profile)
-
 ---
 
 Looking forward to collaborating and making awesome things together! 🚀✨
