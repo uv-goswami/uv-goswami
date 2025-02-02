@@ -4,10 +4,8 @@ Hello there! I'm **Yuvraj Singh**, a passionate developer with a focus on decent
 
 ## 🚀 Projects
 
-### [Domain_dAPP](https://github.com/uv-goswami/Domain_dAPP)
+### [Domain_dAPP](https://github.com/uv-goswami/RealmDomains)
 A decentralized application (dApp) focusing on selling and purchasing Domains. Built using Ethereum, Solidity, Web3.js, and React.
-
-![Domain dApp Screenshot](link-to-your-screenshot)
 
 **Key Features:**
 - Secure domain registration
@@ -17,8 +15,6 @@ A decentralized application (dApp) focusing on selling and purchasing Domains. B
 ### [Nudity_Detection_and_Prevention_using_Faster_R-CNN](https://github.com/uv-goswami/Nudity_Detection_and_Prevention_using_Faster_R-CNN)
 A project focused on detecting and preventing nudity in images using Faster R-CNN. Developed with Python, TensorFlow, Keras, and OpenCV.
 
-![Nudity Detection Screenshot](link-to-your-screenshot)
-
 **Key Features:**
 - High accuracy detection
 - Real-time processing
@@ -26,8 +22,6 @@ A project focused on detecting and preventing nudity in images using Faster R-CN
 
 ### [Cpp-Project-Blockchain](https://github.com/uv-goswami/Cpp-Project-Blockchain)
 A blockchain project implemented in C++ with OpenSSL and JSON for Modern C++.
-
-![Blockchain Project Screenshot](link-to-your-screenshot)
 
 **Key Features:**
 - Secure transactions
