@@ -45,7 +45,7 @@ Whether it's optimizing SEO for AI Agents using **FastAPI & Gemini**, simulating
 * **Security:** Secured via JWT-based stateless authentication and Bcrypt hashing.
 * **Tech:** `FastAPI` `React` `Docker` `AWS` `PostgreSQL` `Gemini AI`
 
-#### 2. [CoreChain - C++ Blockchain Simulation](https://github.com/uv-goswami)
+#### 2. [C++ Blockchain Simulation]([https://github.com/uv-goswami](https://github.com/uv-goswami/Cpp-Project-Blockchain))
 > **Goal:** Understanding the internal mechanics of Blockchain technology by building one from scratch without external crypto libraries.
 
 * **Low-Level Engineering:** Implemented **SHA-256 hashing** manually using bitwise rotation (`ROTR`, `SHR`) and logical functions.
