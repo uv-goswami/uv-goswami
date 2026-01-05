@@ -54,7 +54,7 @@ Whether it's optimizing SEO for AI Agents using **FastAPI & Gemini**, simulating
 * **Optimization:** Utilized OOP to separate Block logic, Chain management, and Hashing utilities for optimal memory management.
 * **Tech:** `C++` `STL` `Cryptography` `Data Structures`
 
-#### 3. [Pookiee - Interactive Event App](https://github.com/uv-goswami)
+#### 3. [Pookiee - Interactive Event App](https://github.com/uv-goswami/Pookiee)
 > **Goal:** Creating state-driven user experiences with real-time media handling.
 
 * **Interactivity:** Built a full-stack web app facilitating real-time session handling.
