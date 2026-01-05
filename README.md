@@ -35,7 +35,7 @@ Whether it's optimizing SEO for AI Agents using **FastAPI & Gemini**, simulating
 
 ### 🏆 Featured Projects
 
-#### 1. [AV - AI Optimization for Visibility](https://github.com/uv-goswami)
+#### 1. [AV - AI Optimization for Visibility](https://github.com/uv-goswami/AV)
 > **Goal:** Solving SEO indexing limitations for AI Agents using a dual-rendering architecture.
 
 * **Render Strategy:** Engineered a **SSR mirror/Dynamic Rendering** system to serve pre-rendered HTML to crawlers while maintaining a snappy React SPA for users.
