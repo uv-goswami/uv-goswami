@@ -64,19 +64,6 @@ Whether it's optimizing SEO for AI Agents using **FastAPI & Gemini**, simulating
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uv-goswami&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uv-goswami&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=uv-goswami&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 ### 🎓 Education
 
 **Bachelor of Science in Computer Science** *University of Delhi* | *Aug 2023 – June 2026* * **Relevant Coursework:** Data Structures & Algorithms, OOP, Cryptography, DBMS, Software Engineering.
