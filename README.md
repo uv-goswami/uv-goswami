@@ -16,6 +16,7 @@
 ### 🚀 About Me
 
 I am a **Computer Science undergraduate at the University of Delhi** (Class of 2026) with a passion for building complex systems from the ground up.
+
 ---
 
 ### 🛠️ Tech Stack
