@@ -36,31 +36,30 @@ Whether it's optimizing SEO for AI Agents using **FastAPI & Gemini**, simulating
 ### 🏆 Featured Projects
 
 #### 1. [AV - AI Optimization for Visibility](https://github.com/uv-goswami/AV)
-> **Goal:** Solving SEO indexing limitations for AI Agents using a dual-rendering architecture.
 
-* **Render Strategy:** Engineered a **SSR mirror/Dynamic Rendering** system to serve pre-rendered HTML to crawlers while maintaining a snappy React SPA for users.
-* **Infrastructure:** Deployed backend on **AWS EC2** (Dockerized) and frontend on **S3**. Implemented CI/CD via Git triggers on Render.
-* **AI Integration:** Integrated **Google Gemini 2.5 Flash** & **BeautifulSoup** to build an automated auditor that analyzes websites and generates **Schema.org JSON-LD metadata**.
-* **Performance:** Reduced DB queries by **40%** using a custom JS-based caching layer and PostgreSQL with SQLAlchemy 2.0.
-* **Security:** Secured via JWT-based stateless authentication and Bcrypt hashing.
-* **Tech:** `FastAPI` `React` `Docker` `AWS` `PostgreSQL` `Gemini AI`
+-	Technologies: Python (FastAPI), React.js, PostgreSQL, Docker, AWS (EC2/S3), Google Gemini AI 
+-	Developed a specialized SEO tool designed to audit and optimize websites for AI search agents and crawlers.
+-	Solved React SPA Indexing Issues: Built a custom Dynamic Rendering proxy in Python that detects crawlers and serves pre-rendered HTML, ensuring visibility where standard Client-Side Rendering failed.
+-	Performance Optimization: Implemented a server-side in-memory caching strategy to bypass free-tier database latency, reducing read times for frequently accessed directory data 
+-	AI Integration: Integrated Google Gemini 2.5 Flash to analyze business descriptions and automatically generate Schema.org JSON-LD structured data.
+-	Deployment: Configured a hybrid deployment using AWS S3 for the frontend and EC2 for the backend, utilizing Docker for consistent environments, while simultaneously deploying (frontend and backend) on Render as well while both share the same PostgreSQL to ensure Distributed System.
+
+
+
 
 #### 2. [C++ Blockchain Simulation](https://github.com/uv-goswami/Cpp-Project-Blockchain)
-> **Goal:** Understanding the internal mechanics of Blockchain technology by building one from scratch without external crypto libraries.
+-	Technologies: React, Node.js, PostgreSQL, WebRTC, Render
+-	Built a real-time interactive web application that captures user reactions via WebRTC and stores them directly to a hosted PostgreSQL database.
+-	Handled binary image data by converting client-side media streams to Base64 for efficient transmission over REST endpoints.
+-	Deployed the full stack on Render with strict CORS policies to ensure secure cross-origin resource sharing between the frontend and backend services.
 
-* **Low-Level Engineering:** Implemented **SHA-256 hashing** manually using bitwise rotation (`ROTR`, `SHR`) and logical functions.
-* **Architecture:** Designed a custom linked-list structure in C++ to ensure data integrity and immutability.
-* **Consensus:** Developed a dynamic **Proof-of-Work** algorithm that validates nonces against target hash requirements.
-* **Optimization:** Utilized OOP to separate Block logic, Chain management, and Hashing utilities for optimal memory management.
-* **Tech:** `C++` `STL` `Cryptography` `Data Structures`
 
 #### 3. [Pookiee - Interactive Event App](https://github.com/uv-goswami/Pookiee)
-> **Goal:** Creating state-driven user experiences with real-time media handling.
+-	Technologies: C++, STL, SHA-256, Cryptography, OOP
+-	Developed a Proof-of-Work Blockchain simulation from scratch to demonstrate cryptographic ledger principles.
+-	Implemented a mining algorithm that validates nonces against target difficulty levels, simulating decentralized consensus logic.
+-	Utilized C++ Object-Oriented Programming to encapsulate Block logic and Chain management, ensuring data integrity via cryptographic linking
 
-* **Interactivity:** Built a full-stack web app facilitating real-time session handling.
-* **Media Handling:** Integrated **Browser Media APIs** to capture reactions, converting streams to Base64 for efficient backend transmission.
-* **Deployment:** Configured strict **CORS policies** and data persistence on Render/PostgreSQL.
-* **Tech:** `React` `Node.js` `WebRTC` `PostgreSQL`
 
 ---
 
