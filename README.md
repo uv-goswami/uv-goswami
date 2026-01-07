@@ -15,10 +15,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Science undergraduate at the University of Delhi** (Class of 2026) with a passion for building complex systems from the ground up. My journey bridges the gap between high-level application development and low-level system architecture. 
-
-Whether it's optimizing SEO for AI Agents using **FastAPI & Gemini**, simulating Blockchain consensus algorithms in **C++**, or building real-time interactive apps with **WebRTC**, I love solving difficult engineering problems.
-
+I am a **Computer Science undergraduate at the University of Delhi** (Class of 2026) with a passion for building complex systems from the ground up.
 ---
 
 ### 🛠️ Tech Stack
