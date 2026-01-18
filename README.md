@@ -52,11 +52,7 @@ I am a **Computer Science undergraduate at the University of Delhi** (Class of 2
 -	Deployed the full stack on Render with strict CORS policies to ensure secure cross-origin resource sharing between the frontend and backend services.
 
 
-#### 3. [Pookiee - Interactive Event App](https://github.com/uv-goswami/Pookiee)
--	Technologies: C++, STL, SHA-256, Cryptography, OOP
--	Developed a Proof-of-Work Blockchain simulation from scratch to demonstrate cryptographic ledger principles.
--	Implemented a mining algorithm that validates nonces against target difficulty levels, simulating decentralized consensus logic.
--	Utilized C++ Object-Oriented Programming to encapsulate Block logic and Chain management, ensuring data integrity via cryptographic linking
+
 
 
 ---
