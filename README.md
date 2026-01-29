@@ -2,7 +2,7 @@
  
 <div align="center">
   
-  **Full Stack Developer | AI Integrator | Blockchain Engineer**
+  **Full Stack Developer**
   
   *Based in New Delhi, India 🇮🇳*
 
