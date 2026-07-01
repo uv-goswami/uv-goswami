@@ -2,7 +2,7 @@
  
 <div align="center">
   
-  **Full Stack Developer**
+  **Software Developer**
   
   *Based in New Delhi, India 🇮🇳*
 
